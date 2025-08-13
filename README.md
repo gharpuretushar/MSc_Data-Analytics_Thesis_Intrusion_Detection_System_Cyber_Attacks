@@ -101,6 +101,4 @@ Detailed performance visualization (metrics, confusion matrices, learning curves
 🧪 Future Improvements
 Incorporate additional IoT-specific datasets for broader generalization.
 
-Implement online learning for real-time adaptation.
-
-Integrate explainable AI techniques (e.g., SHAP) to interpret model decisions.
+Implement online learning for real-time adaptation on WebApp.
