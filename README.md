@@ -53,11 +53,11 @@ Model Evaluation – Compare models using accuracy, precision, recall, F1-score,
 Model Saving – Save best Conv-LSTM model (conv_lstm_model.keras) and scaler (scaler.pkl).
 
 📊 Results Summary
-CNN Accuracy: ~99%
+CNN Accuracy: ~98%
 
-LSTM Accuracy: ~100%
+LSTM Accuracy: ~98%
 
-Conv-LSTM Accuracy: ~100% (Selected for deployment)
+Conv-LSTM Accuracy: ~99.5% (Selected for deployment)
 
 Conv-LSTM showed best generalization, minimal loss, and strong multi-class performance.
 
