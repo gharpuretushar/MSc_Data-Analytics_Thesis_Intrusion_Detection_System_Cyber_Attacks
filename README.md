@@ -1,0 +1,2 @@
+# MSc_Data-Analytics_Thesis_Intrusion_Detection_System_Cyber_Attacks
+This project builds an IoT Intrusion Detection System using deep learning to classify attacks like DoS, DDoS, BruteForce, Scan, and Web-based. After merging packet and flow data, we clean, engineer features, select top ones via Random Forest, and balance classes with SMOTE. CNN, LSTM, and Conv-LSTM are compared, with Conv-LSTM chosen for deployment
